@@ -2,9 +2,6 @@
 Webcam Face Detection Program in python
 
 
-OpenCV mini-project Webcam-face-Detection
-==================
-
 Run the program:
 
 *python webcam.py*

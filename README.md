@@ -46,5 +46,13 @@ Hewlett Packard 64bit system.
 <img src ="test_images/t2.JPG" />
 
 
+## Upcoming Push:
+
+Wanna contribute to the more advanced version 2.0 of this mini project :
+
+The upcoming project will be Faces recognition example using eigenfaces and SVMs:
+
+Take a glance : [here](http://scikit-learn.sourceforge.net/0.6/auto_examples/applications/plot_face_recognition.html)
+
 
 
